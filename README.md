@@ -1,5 +1,5 @@
 # Biostat 515/517 
-# Homework 1 
+## Homework 1 
 
 - Please read the class site for details on appropriate answering of questions. Discussion of the questions with 
 other students, TAs, the instructor, or on the class discussion board is permitted, but you should write up your 
